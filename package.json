@@ -1,0 +1,15 @@
+{
+  "name": "lx-arafat-chat-bot",
+  "version": "1.0.0",
+  "description": "LX ARAFAT Messenger Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
